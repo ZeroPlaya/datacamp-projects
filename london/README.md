@@ -31,3 +31,9 @@ FROM TFL.JOURNEYS
 GROUP BY journey_type
 ORDER BY total_journeys_millions DESC;
 ```
+
+## Links
+
+- **DataCamp Project:** [Exploring London's Travel Network](https://app.datacamp.com/learn/projects/exploring_londons_travel_network/guided/Snowflake)  
+- **Learning Track:** [Associate Data Engineer in SQL](https://www.datacamp.com/completed/statement-of-accomplishment/track/47ec0e5d34abb761796b9f55d0f7d3a09d98c700)
+
