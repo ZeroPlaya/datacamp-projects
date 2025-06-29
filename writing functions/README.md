@@ -42,3 +42,8 @@ print(register_user('Kurt', 'kurt@email.xyz', 'Password123'))  # Invalid email
 print(register_user('Kurt', 'kurt@gmail.com', 'password'))     # Invalid password
 print(register_user('Kurt', 'kurt@gmail.com', 'Password123'))  # Valid credentials
 ```
+
+## Links
+
+- **DataCamp Project:** [Creating Functions to Register App Users](https://app.datacamp.com/learn/projects/2216)  
+- **Learning Track:** [Python Programming Fundamentals](https://www.datacamp.com/completed/statement-of-accomplishment/track/6a449a8b71c60d608f60c140b350d5549be8643c)
