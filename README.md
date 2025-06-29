@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ef72cb48-ac40-40cd-af8b-163246f960de)# DataCamp Projects
+# DataCamp Projects
 
 This repository contains a collection of hands-on projects from my DataCamp learning journey.
 
