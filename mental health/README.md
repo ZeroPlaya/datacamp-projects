@@ -43,3 +43,9 @@ WHERE stay IS NOT NULL
 GROUP BY stay
 ORDER BY stay DESC;
 ```
+
+## Links
+
+- **DataCamp Project:** [Analyzing Students' Mental Health
+](https://app.datacamp.com/learn/projects/analyzing_students_mental_health/guided/SQL)  
+- **Learning Track:** [Associate Data Engineer in SQL](https://www.datacamp.com/completed/statement-of-accomplishment/track/47ec0e5d34abb761796b9f55d0f7d3a09d98c700)
