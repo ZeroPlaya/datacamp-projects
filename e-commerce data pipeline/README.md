@@ -106,3 +106,7 @@ Confirmed successful saving using the `validation()` function.
 - `clean_data.csv` – cleaned, transformed dataset for analysis
 - `agg_data.csv` – monthly average weekly sales for Walmart
 
+## Links
+
+- **DataCamp Project:** [Building a Retail Data Pipeline](https://app.datacamp.com/learn/projects/1833)  
+- **Learning Track:** [Data Engineer in Python](https://www.datacamp.com/completed/statement-of-accomplishment/track/1239f48432b3a47db932bfad99b900933000b204)
