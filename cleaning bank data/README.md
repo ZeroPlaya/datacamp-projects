@@ -60,3 +60,9 @@ Example of creating a boolean column from text values:
 
 ```python
 df['credit_default'] = df['credit_default'].map(lambda x: 1 if x == 'yes' else 0).astype(bool)
+```
+
+## Links
+
+- **DataCamp Project:** [Cleaning Bank Marketing Campaign Data](https://app.datacamp.com/learn/projects/1613)  
+- **Learning Track:** [Data Engineer in Python](https://www.datacamp.com/completed/statement-of-accomplishment/track/1239f48432b3a47db932bfad99b900933000b204)
