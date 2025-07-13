@@ -13,6 +13,10 @@ These projects helped me practice Python, data analysis, visualization, and comm
 These badges show the DataCamp tracks related to some of the projects in this repository.
 Click a badge to view the certificate.
 
+<a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/1239f48432b3a47db932bfad99b900933000b204" target="_blank">
+  <img src="https://www.datacamp.com/statement-of-accomplishment/badge/track/1239f48432b3a47db932bfad99b900933000b204.png" width="300" alt="Data Engineer in Python Badge">
+</a>
+
 <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/47ec0e5d34abb761796b9f55d0f7d3a09d98c700" target="_blank">
   <img src="https://www.datacamp.com/statement-of-accomplishment/badge/track/47ec0e5d34abb761796b9f55d0f7d3a09d98c700.png" width="300" alt="Associate Data Engineer Badge">
 </a>
@@ -24,4 +28,5 @@ Click a badge to view the certificate.
 <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/6a449a8b71c60d608f60c140b350d5549be8643c" target="_blank">
   <img src="https://www.datacamp.com/statement-of-accomplishment/badge/track/6a449a8b71c60d608f60c140b350d5549be8643c.png" width="300" alt="Python Programming Fundamentals Badge">
 </a>
+
 
