@@ -48,3 +48,9 @@ The following test was implemented to ensure clean data:
 def test_nan_values(clean_data):
     assert clean_data["battery_capacity"].isnull().sum() == 0
     assert clean_data["os"].isnull().sum() == 0
+```
+
+## Links
+
+- **DataCamp Project:** [Performing a Code Review](https://app.datacamp.com/learn/projects/1879)  
+- **Learning Track:** [Data Engineer in Python](https://www.datacamp.com/completed/statement-of-accomplishment/track/1239f48432b3a47db932bfad99b900933000b204)
